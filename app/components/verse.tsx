@@ -29,7 +29,7 @@ const findVerseById = (id: number | null): DailyVerseDetailsInterface | null => 
   if (!id) return null;
   
   // find the verse by id from the data.json
-  const verse = (data as RawVerseData[]).find((verse: RawVerseData) => verse.id === id);
+  const verse = (data as unknown as RawVerseData[]).find((verse: RawVerseData) => verse.id === id);
   if (!verse) return null;
   
   // Convert to DailyVerseDetailsInterface format
@@ -96,7 +96,7 @@ export default function VerseCard({ dailyVerseDetails }: { dailyVerseDetails: Da
       <Card className="border border-foreground/20 shadow-sm hover:shadow-md transition-shadow duration-200">
         <CardHeader className="border-b border-foreground/10">
           <div className="flex flex-col gap-2">
-            <CardTitle className="text-lg md:text-xl font-semibold text-foreground">
+            <CardTitle className="text-lg md:text-xl text-foreground">
               শ্লোক {displayVerse?.verseNo} • অধ্যায় {displayVerse?.chapter}
             </CardTitle>
             <CardAction className="text-sm md:text-base text-muted-foreground font-medium">
@@ -104,9 +104,9 @@ export default function VerseCard({ dailyVerseDetails }: { dailyVerseDetails: Da
             </CardAction>
           </div>
         </CardHeader>
-        <CardContent className="pt-4 space-y-5">
+        <CardContent className="pt-2 space-y-3">
           {/* Sanskrit Verse Section */}
-          <div className="flex flex-col gap-2">
+          {/* <div className="flex flex-col gap-2">
             <div className="flex items-center gap-2">
               <div className="w-0.5 h-5 bg-foreground rounded-full"></div>
               <h3 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
@@ -118,10 +118,10 @@ export default function VerseCard({ dailyVerseDetails }: { dailyVerseDetails: Da
                 {displayVerse?.verse}
               </p>
             </div>
-          </div>
+          </div> */}
 
           {/* Translation Section */}
-          <div className="flex flex-col gap-2 pt-3 border-t border-foreground/10">
+          <div className="flex flex-col gap-2">
             <div className="flex items-center gap-2">
               <div className="w-0.5 h-5 bg-foreground rounded-full"></div>
               <h3 className="text-xs font-semibold uppercase tracking-wide text-muted-foreground">
@@ -129,7 +129,7 @@ export default function VerseCard({ dailyVerseDetails }: { dailyVerseDetails: Da
               </h3>
             </div>
             <div className="pl-3">
-              <p className="text-sm md:text-base leading-relaxed whitespace-pre-line text-foreground/90">
+              <p className="text-sm md:text-base leading-relaxed font-semibold">
                 {displayVerse?.verseBanglaTranslation || displayVerse?.translation}
               </p>
             </div>

@@ -1,82 +1,4772 @@
 [
-    {
-        "id": 1,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 1,
-        "verse": "ধৃতরাষ্ট্র উবাচ\nধর্মক্ষেত্রে কুরুক্ষেত্রে সমবেতা যুযুৎসবঃ ।\nমামকাঃ পাণ্ডবাশ্চৈব কিমকুর্বত সঞ্জয় ॥১॥\nধর্মক্ষেত্রে, কুরুক্ষেত্রে, সমবেতাঃ, যুযুৎসবঃ,\nমামকাঃ, পাণ্ডবাঃ, চ, এব, কিম্, অকুর্বত, সঞ্জয় ॥১॥\n",
-        "verseBanglaTranslation": "ধৃতরাষ্ট্র জিজ্ঞাসা করলেন\n  হে সঞ্জয় ! ধর্মক্ষেত্রে যুদ্ধ করার মানসে সমবেত হয়ে আমার পুত্র এবং পান্ডুর পুত্রেরা তারপর কি করল ?\n\n"
-    },
-    {
-        "id": 2,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 2,
-        "verse": "সঞ্জয় উবাচ \nদৃষ্ট্বা তু পাণ্ডবানীকং ব্যূঢ়ং দুর্যোধনস্তদা ।\nআচার্যমুপসঙ্গম্য রাজা বচনমব্রবীৎ॥২॥\nদৃষ্ট্বা, তু, পাণ্ডব-অনীকম্, ব্যূঢ়ম্, দুর্যোধনঃ, তদা,\nআচার্যম্, উপসঙ্গম্য, রাজা, বচনম্, অব্রবীৎ॥২॥\n",
-        "verseBanglaTranslation": "সঞ্জয় বললেন\n হে রাজন্ ! পাণ্ডবদের সৈন্যসজ্জা দর্শন করে রাজা দুর্যোধন দ্রোণাচার্যের কাছে গিয়ে বললেন-\n\n"
-    },
-    {
-        "id": 3,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 3,
-        "verse": "পশ্যৈতাং পাণ্ডুপুত্রাণামাচার্য মহতীং চমূম্ ।\nব্যূঢ়াং দ্রুপদপুত্রেণ তব শিষ্যেণ ধীমতা ॥৩॥\nপশ্য, এতাম্, পাণ্ডুপুত্রাণাম্, আচার্য, মহতীম্, চমূম্\nব্যূঢ়াম্, দ্রুপদপুত্রেণ, তব, শিষ্যেণ, ধীমতা ॥৩॥\n",
-        "verseBanglaTranslation": "হে আচার্য ! পাণ্ডবদের মহান সৈন্যবল দর্শন করুন, যা আপনার অত্যন্ত বুদ্ধিমান শিষ্য দ্রুপদের পুত্র অত্যন্ত  দক্ষতার সঙ্গে ব্যূহের আকারে রচনা করেছেন।\n\n"
-    },
-    {
-        "id": 4,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 4,
-        "verse": "অত্র শূরা মহেষ্বাসা ভীমার্জুনসমা যুধি ।\nযুযুধানো বিরাটশ্চ দ্রুপদশ্চ মহারথঃ ॥৪॥\nঅত্র, শূরাঃ, মহেষ্বাসাঃ, ভীমার্জুন-সমাঃ, যুধি,\nযুযুধানঃ, বিরাটঃ, চ, দ্রুপদঃ, চ, মহারথঃ ॥৪॥\n",
-        "translation": "সেই সমস্ত সেনাদের মধ্যে অনেকে ভীম ও অর্জুনের মতো বীর ধনুর্ধারী রয়েছেন এবং যুযুধান, বিরাট ও দ্রুপদের মতো মহাযোদ্ধা রয়েছেন।\n\n"
-    },
-    {
-        "id": 5,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 5,
-        "verse": "ধৃষ্টকেতুশ্চেকিতানঃ কাশিরাজশ্চ বীর্যবান্ ।\nপুরুজিৎ কুন্তিভোজশ্চ শৈব্যশ্চ নরপুঙ্গবঃ ॥৫॥\nধৃষ্টকেতুঃ, চেকিতানঃ, কাশিরাজঃ, চ, বীর্যবান্,\nপুরুজিৎ, কুন্তিভোজ, চ, শৈব্যঃ, চ, নরপুঙ্গবঃ ॥৫॥\n",
-        "translation": "সেখানে ধৃষ্টকেতু, চেকিতান, কাশিরাজ, পুরুজিৎ, কুন্তিভোজ ও শৈব্যের মতো অত্যন্ত বলবান যোদ্ধারাও রয়েছেন।\n\n"
-    },
-    {
-        "id": 6,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 6,
-        "verse": "যুধামন্যুশ্চ বিক্রান্ত উত্তমৌজাশ্চ বীর্যবান্ ।\nসৌভদ্রো দ্রৌপদেয়াশ্চ সর্ব এব মহারথাঃ ॥৬॥\nযুধামন্যুঃ, চ, বিক্রান্তঃ, উত্তমৌজাঃ, চ, বীর্যবান্,\nসৌভদ্রঃ, দ্রৌপদেয়াঃ, চ, সর্বে, এব, মহারথাঃ ॥৬॥\n",
-        "translation": "সেখানে রয়েছেন অত্যন্ত বলবান যুধামন্যু, প্রবল পরাক্রমশালী উত্তমৌজা, সুভদ্রার পুত্র এবং দ্রৌপদীর পুত্রগণ। এই সব যোদ্ধারা সকলেই এক-একজন মহারথী।\n\n"
-    },
-    {
-        "id": 7,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 7,
-        "verse": "অস্মাকন্ত্ত বিশিষ্টা যে তান্নিবোধ দ্বিজোত্তম ।\nনায়কা মম সৈন্যস্য সংজ্ঞার্থং তান্ ব্রবীমি তে ॥৭॥\nঅস্মাকম্, তু, বিশিষ্টাঃ, যে, তান্, নিবোধ, দ্বিজোত্তম,\nনায়কাঃ, মম, সৈন্যস্য, সংজ্ঞার্থম্, তান্, ব্রবীমি, তে ॥৭॥\n",
-        "translation": "হে দ্বিজোত্তম ! আমাদের পক্ষে যে সমস্ত বিশিষ্ট সেনাপতি সামরিক শক্তি পরিচালনার জন্য রয়েছেন, আপনার অবগতির জন্য আমি তাঁদের সম্বন্ধে বলছি।\n\n"
-    },
-    {
-        "id": 8,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 8,
-        "verse": "ভবান্ ভীষ্মশ্চ কর্ণশ্চ কৃপশ্চ সমিতিঞ্জয়ঃ ।\nঅশ্বত্থামা বিকর্ণশ্চ সৌমদত্তিস্তথৈব চ ॥৮॥\nভবান্, ভীষ্মঃ, চ, কর্ণঃ, চ, কৃপঃ, চ, সমিতিঞ্জয়ঃ,\nঅশ্বত্থামা, বিকর্ণঃ, চ, সৌমদত্তিঃ, তথা, এব, চ ॥৮॥\n",
-        "translation": "সেখানে রয়েছেন আপনার মতোই ব্যক্তিত্বশালী-ভীষ্ম, কর্ণ, কৃপা, অশ্বত্থামা , বিকর্ণ ও সোমদত্তের পুত্র ভূরিশ্রবা, যাঁরা সর্বদা সংগ্রামে বিজয়ী হয়ে থাকেন।\n\n"
-    },
-    {
-        "id": 9,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 9,
-        "verse": "অন্যে চ বহবঃ শূরাঃ মদর্থে ত্যক্তজীবিতাঃ।\nনানাশস্ত্রপ্রহরণাঃ সর্বে যুদ্ধবিশারদাঃ ॥৯॥\nঅন্যে, চ, বহবঃ, শূরাঃ, মদর্থে, ত্যক্তজীবিতাঃ,\nনানাশস্ত্রপ্রহরণাঃ, সর্বে, যুদ্ধ-বিশারদাঃ ॥৯॥\n",
-        "translation": "এ ছাড়া আরও বহু সেনানায়ক রয়েছেন, যাঁরা আমার জন্য তাঁদের জীবন ত্যাগ করতে প্রস্তুত । তাঁরা সকলেই নানা প্রকার অস্ত্রশস্ত্রে সজ্জিত এবং তাঁরা সকলেই সামরিক বিজ্ঞানে বিশারদ।\n\n"
-    },
-    {
-        "id": 10,
-        "chapter": 1,
-        "chapterName": "অর্জুন বিষাদ যোগ",
-        "verseNo": 10,
-        "verse": "অপর্যাপ্তং তদস্মাকং বলং ভীষ্মাভিরক্ষিতম্ ।\nপর্যাপ্তং ত্বিদমেতেষাং বলং ভীমাভিরক্ষিতম্ ॥১০॥\nঅপর্যাপ্তম্, তৎ, অস্মাকম্, বলম্, ভীষ্মাভিরক্ষিতম্ ।\nপর্যাপ্তম্, তু, ইদম, এতেষাম্, বলম্, ভীমাভিরক্ষিতম্ ॥১০॥\n",
-        "translation": "আমাদের সৈন্যবল অপরিমিত এবং আমরা পিতামহ ভীষ্মের দ্বারা পূর্ণরূপে সুরক্ষিত, কিন্তু ভীমের দ্বারা সতর্কভাবে সুরক্ষিত পাণ্ডবদের শক্তি সীমিত।\n"
-    }
+  {
+    "id": 1,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১",
+    "verse": "ধৃতরাষ্ট্র উবাচ।\nধর্মক্ষেত্রে কুরুক্ষেত্রে সমবেতা যুয়ুৎসবঃ।\nমামকাঃ পাণ্ডবাশ্চৈব কিমকুর্বত সঞ্জয় ॥১-১।।",
+    "verseBanglaTranslation": "ধৃতরাষ্ট্র কহিলেন -\nহে সঞ্জয়, পুণ্যক্ষেত্র কুরুক্ষেত্রে আমার পুত্রগণ এবং পাণ্ডুপুত্রগণ যুদ্ধার্থে সমবেত হইয়া কি করিলেন ? ১",
+    "verseBanglaDetails": "যুদ্ধারস্ডের পূর্বে ব্যাসদেব অন্ধরাজকে যুদ্ধদর্শনার্থ দিব্যচক্ষু প্রদান করিতে চাহিলেন। ধৃতরাষ্ট তাহাতে অসম্মত হ্ইমাঁ বলিলেন_-আমি জ্ঞাতিকুটুম্বের নিধন দেখিতে চাই না, আপনার তপঃপ্রভাবে যাহাতে যুদ্ধের সমত্ত বৃত্তান্ত যথাযথ শ্রবণ করিতে পারি, আপনি তাহাই করুন। তখন ব্যাসঙ্গেব রাজ-অমাতা সঞ্জয়কে বর প্রদান করেন। সেই বরপ্রভাবে তিনি দিব্যদৃষ্টি লা করিয়া যুদ্ধা্দি সন্দর্শন ও উপস্থিত ব্যক্তিবর্গের বাক্যাদি শ্রবণ ও মনোভাব সমন্ত পরিজ্ঞাত হইয়া ধৃতরাষ্ট্রের নিকট বর্ণনা করিয়াছিলেন। গীতার সমস্তই সপ্তয়-বাক্য"
+  },
+  {
+    "id": 2,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২",
+    "verse": "সঞ্জয় উবাচ।\nদৃষ্ট্বা তু পাণ্ডবানীকং ব্যূঢং দুর্যোধনস্তদা ।\nআচার্যমুপসঙ্গম্য রাজা বচনমব্রবীত্ ॥ ১-২॥",
+    "verseBanglaTranslation": "সঞ্জয় কহিলেন -\nতৎকালে রাজা দুর্যোধন পাণ্ডব-সৈন্যদিগকে ব্যুহাকারে সজ্জিত দেখিয়া দ্রোণাচার্য সমীপে যাইয়া এই কথা বলিলেন । ২",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 3,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩",
+    "verse": "",
+    "verseBanglaTranslation": "গুরুদেব, আপনার ধীমান্ শিষ্য দ্রুপদপুত্র কর্তৃক ব্যুহবদ্ধ পাণ্ডবদিগের এই বিশাল সৈন্যদল দেখুন । ৩",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 4,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৬",
+    "verse": "",
+    "verseBanglaTranslation": "এই সেনার মধ্যে ভীমার্জুনের সমকক্ষ, মহাধনুর্ধারী বহু বীর পুরুষ রহিয়াছেন । সাত্যকি, বিরাট, মহারথ দ্রুপদ, ধৃষ্টকেতু, চেকিতান, বীর্যবান্ কাশীরাজ, কুন্তীভোজ পুরুজিৎ, নরশ্রেষ্ঠ শৈব্য, বিক্রমশালী যুধামন্যু, বীর্যবান্ উত্তমৌজা, সুভদ্রা-পুত্র (অভিমন্যু), দ্রৌপদীর পুত্রগণ (প্রতিবিন্ধ্যাদি) ইহারা সকলেই মহারথী । ৪-৬",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 5,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৭",
+    "verse": "",
+    "verseBanglaTranslation": "দে দ্বিজশ্রেষ্ঠ ! আমার সৈন্যমধ্যেও যে সকল প্রধান সেনানায়ক আছেন তাহাদিগকে অবগত হউন । আপনার সম্যক্ অবগতির জন্য তাহাদিগের নাম বলিতেছি । ৭",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 6,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৮",
+    "verse": "",
+    "verseBanglaTranslation": "আপনি, ভীষ্ম, কর্ণ, যুদ্ধজয়ী কৃপ, অশ্বত্থামা, বিকর্ণ, সোমদত্তপুত্র এবং জয়দ্রথঃ । ৮",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 7,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৯",
+    "verse": "",
+    "verseBanglaTranslation": "আমার জন্য জীবন ত্যাগে প্রস্তুত আরও অনেক নানাশস্ত্রধারী বীরপুরুষ আছেন । তাঁহার সকলেই যুদ্ধ বিশারদ । ৯",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 8,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১০",
+    "verse": "",
+    "verseBanglaTranslation": "ভীষ্মকর্তৃক সম্যক্ রক্ষিত আমাদের সেনা অপরিমিত । আর ভীমকর্তৃক রক্ষিত পাণ্ডবদের সেনা পরিমিত (অপেক্ষাকৃত অল্প) । ১০",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 9,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১১",
+    "verse": "",
+    "verseBanglaTranslation": "আপনারা সকলেই স্ব স্ব বিভাগানুসারে সমস্ত বূহ্যদ্বারে অবস্থিত থাকিয়া ভীষ্মকেই সকল দিক্ হইতে রক্ষা করিতে থাকুন । ১১",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 10,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১২",
+    "verse": "",
+    "verseBanglaTranslation": "তখন প্রতাপশালী কুরুবৃদ্ধ পিতামহ তাঁহার (দুর্যোধনের) আনন্দ জন্মাইয়া উচ্চ সিংহনাদ করিয়া শঙ্খধ্বনি করিলেন । ১২",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 11,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১৩",
+    "verse": "",
+    "verseBanglaTranslation": "তখন শঙ্খ, ভেরী, পণব, আনক, গোমুখ প্রভৃতি বাদ্যযন্ত্র সহসা বাদিত হইলে সেই শব্দ তুমুল হইয়া উঠিল । ১৩",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 12,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১৪",
+    "verse": "",
+    "verseBanglaTranslation": "অনন্তর শ্বেতাশ্বযুক্ত মহারথে স্থিত শ্রীকৃষ্ণ ও অর্জুন দিব্য শঙ্খধ্বনি করিলেন । ১৪",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 13,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১৬",
+    "verse": "",
+    "verseBanglaTranslation": "শ্রীকৃষ্ণ পাঞ্চজন্য নামে শঙ্খ, অর্জুন দেবদত্ত নামক শঙ্খ এবং ভীম পৌণ্ড্র নামক মহাশঙ্খ বাজাইলেন । কুন্তীপুত্র রাজা যুধিষ্ঠির অনন্তবিজয় নামক শঙ্খ, নকুল সুঘোষ নামক শঙ্খ এবং সহদেব মণিপুস্পক নামক শঙ্খ বাজাইলেন । ১৫,১৬",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 14,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১৮",
+    "verse": "",
+    "verseBanglaTranslation": "হে রাজন্, মহাধনুর্ধর কাশীরাজ, মহারথ শিখণ্ডী, ধৃষ্টদ্যুম্ন, বিরাট রাজা, অজেয় সাত্যকি, দ্রুপদ, দ্রৌপদীর পুত্রগণ, মহাবাহু সুভদ্রা-পুত্র - ইহারা সকলেই পৃথক্ পৃথক্ শঙ্খ বাজাইলেন । ১৭,১৮",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 15,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "১৯",
+    "verse": "",
+    "verseBanglaTranslation": "সেই তুমুল শব্দ আকাশ ও পৃথিবীতে প্রতিধ্বনিত হইয়া ধৃতরাষ্ট্রপুত্রগণ ও তৎপক্ষীয়গণের হৃদয় বিদীর্ণ করিল । ১৯",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 16,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২০",
+    "verse": "",
+    "verseBanglaTranslation": "হে রাজন্, অনন্তর ধৃতরাষ্ট্রপক্ষীয়দিগকে যুদ্ধোদ্‌যোগে অবস্থিত দেখিয়া শস্ত্রনিক্ষেপে প্রবৃত্ত কপিধ্বজ অর্জুন ধনু উত্তোলন করিয়া শ্রীকৃষ্ণকে এই কথা বলিলেন । ২০",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 17,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২৩",
+    "verse": "",
+    "verseBanglaTranslation": "অর্জুন বলিলেন -\nহে অচ্যুত, যুদ্ধকামনায় অবস্থিত ইহাদিগকে যাবৎ আমি দর্শন করি, তাবৎ (তুমি) উভয় সেনার মধ্যে আমার রথ স্থাপন কর; এই যুদ্ধব্যাপারে কাহাদিগের সহিত আমার যুদ্ধ করিতে হইবে তাহা আমি দেখি; দুর্বুদ্ধি দুর্যোধনের হিতকামনায় যাহারা এখানে উপস্থিত হইয়াছেন, সেই সকল যুদ্ধার্থিগণকে আমি দেখি । ২১, ২২, ২৩",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 18,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২৫",
+    "verse": "",
+    "verseBanglaTranslation": "সঞ্জয় কহিলেন -\nহে ভারত ! অর্জুন কর্তৃক এইরূপ অভিহিত হইয়া শ্রীকৃষ্ণ উভয় সেনার মধ্যে ভীষ্ম দ্রোণ এবং সমস্ত রাজগণের সম্মুখে উৎকৃষ্ট রথ স্থাপন করিয়া কহিলেন -\n\nশ্রীকৃষ্ণ কহিলেন -\n\"হে অর্জুন, সমবেত কুরুগণকে দেখ ।'' ২৪,২৫",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 19,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২৬",
+    "verse": "",
+    "verseBanglaTranslation": "তখন অর্জুন উভয় সেনার মধ্যেই অবস্থিত পিতৃব্যগণ, পিতামহগণ, আচার্য্যগণ, মাতুলগণ, ভ্রাতৃগণ, পুত্রগণ, পৌত্রগণ, মিত্রগণ, শ্বশুরগণ ও সুহৃদ্‌গণকে দেখিলেন । ২৬",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 20,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২৭",
+    "verse": "",
+    "verseBanglaTranslation": "সেই কুন্তীপুত্র অর্জুন বন্ধুবান্ধবদিগকে যুদ্ধার্থে অবস্থিত দেখিয়া নিতান্ত করুণার্দ্র হইয়া বিষাদপূর্বক এই কথা কহিলেন । ২৭",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 21,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২৮",
+    "verse": "",
+    "verseBanglaTranslation": "অর্জুন কহিলেন - \nহে কৃষ্ণ, যুদ্ধেচ্ছু এই সকল স্বজনদিগকে সম্মুখে অবস্থিত দেখিয়া আমার শরীর অবসন্ন হইতেছে এবং মুখ শুষ্ক হইতেছে । ২৮",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 22,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "২৯",
+    "verse": "",
+    "verseBanglaTranslation": "আমার শরীরে কম্প ও রোমাঞ্চ হইতেছে; হাত হইতে গাণ্ডীব খসিয়া পড়িতেছে এবং চর্ম জ্বালা করিতেছে । ২৯",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 23,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩০",
+    "verse": "",
+    "verseBanglaTranslation": "হে কেশব, আমি স্থির থাকিতে পারিতেছি না; আমার মন যেন ঘুরিতেছে, আমি দুর্লক্ষণ সকল দেখিতেছি । ৩০",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 24,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩১",
+    "verse": "",
+    "verseBanglaTranslation": "যুদ্ধে স্বজনদিগকে নিহত করিয়া আমি মঙ্গল দেখিতেছি না । হে কৃষ্ণ, আমি জয়লাভ করিতে চাহি না, রাজ্যও চাহি না, সুখভোগ চাহি না । ৩১",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 25,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩৪",
+    "verse": "",
+    "verseBanglaTranslation": "হে গোবিন্দ, যাহাদিগের জন্য রাজ্য, ভোগ, সুখাদি কামনা করা যায় সেই আচার্য্য, পিতৃব্য, পুত্র, পিতামহ, মাতুল, শ্বশুর, পৌত্র, শ্যালক ও কুটুম্বগণ যখন ধনপ্রাণ ত্যাগ স্বীকার করিয়াও যুদ্ধার্থে উপস্থিত, তখন আমাদের রাজ্যেই বা কি কাজ আর সুখভোগ বা জীবনেই বা কি কাজ ? হে মধুসূদন, যদি ইহারা আমাকে মারিয়াও ফেলে তথাপি আমি ইগাদিগকে মারিতে ইচ্ছা করি না । ৩২, ৩৩, ৩৪",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 26,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩৫",
+    "verse": "",
+    "verseBanglaTranslation": "হে কৃষ্ণ, পৃথিবীর রাজত্বের কথা দূরে থাক, ত্রৈলোক্যরাজ্যের জন্যই বা দুর্য্যোধনাদিগকে বধ করলে আমাদের কি সুখ হইবে ? ৩৫",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 27,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩৬",
+    "verse": "",
+    "verseBanglaTranslation": "যদিও ইহারা আততায়ী (এবং আততায়ী শাস্ত্রমতে বধ্য), তথাপি এই আচার্য্যাদি গুরুজনকে বধ করিলে আমরা পাপভাগীই হইব । অতএব আমরা সবান্ধব ধৃতরাষ্ট্রপুত্রদিগকে বধ করিতে পারি না; হে মাধব, স্বজন বধ করিয়া আমরা কি প্রকারে সুখী হইব ? ৩৬",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 28,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩৮",
+    "verse": "",
+    "verseBanglaTranslation": "যদিও ইহারা লোভে হতজ্ঞান হইয়া কুলক্ষয়জনিত দোষ এবং মিত্রদ্রোহজনিত পাতক দেখিতেছে না, কিন্তু হে জনার্দন, আমরা কূলক্ষয়জনিত দোষ দেখিয়াও সে পাপ হইতে নিবৃত্ত কেন না হইব ? ৩৭,৩৮",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 29,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৩৯",
+    "verse": "",
+    "verseBanglaTranslation": "কূলক্ষয় হইলে সনাতন কূলধর্ম নষ্ট হয় এবং ধর্ম নষ্ট হইলে সমগ্র কূল অধর্মে অভিভূত হয় । ৩৯",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 30,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৪০",
+    "verse": "",
+    "verseBanglaTranslation": "হে কৃষ্ণ, কূল অধর্মে অভিভূত হইলে কূলস্ত্রীগণ ব্যভিচারিণী হয় । হে বার্ষ্ণেয়, কূলনারীগণ ব্যভিচারিণী হইলে বর্ণসঙ্কর জন্মে । ৪০",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 31,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৪১",
+    "verse": "",
+    "verseBanglaTranslation": "বর্ণসঙ্কর, কূলনাশকারীদিগের এবং কূলের নরকের কারণ হয় । শ্রাদ্ধ-তর্পণাদি ক্রিয়ার লোপ হওয়াতে ইহাদের পিতৃপুরুষ নরকে পতিত হয় (সদ্গতিপ্রাপ্ত হয় না) । ৪১",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 32,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৪২",
+    "verse": "",
+    "verseBanglaTranslation": "কূলনাশকারীদগের বর্ণসঙ্করকারক ঐ দোষে সনাতন জাতিধর্ম, কূলধর্ম ও আশ্রমধর্মাদি উৎসন্ন যায় । ৪২",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 33,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৪৩",
+    "verse": "",
+    "verseBanglaTranslation": "হে জনার্দন, যে মনুষ্যদিগের কূলধর্ম উৎসন্ন যায়, তাহাদের নিয়ত নরকে বাস হয়, ইহা আমরা শুনিয়াছি । ৪৩",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 34,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৪৪",
+    "verse": "",
+    "verseBanglaTranslation": "হায় ! আমরা রাজ্যসুখলোভে স্বজনগণকে বিনাশ করিতে উদ্যত হইয়া মহাপাপে প্রবৃত্ত হইয়াছি । ৪৪",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 35,
+    "chapter": "১",
+    "chapterName": "অর্জুন বিষাদ যোগ",
+    "verseNo": "৪৫",
+    "verse": "",
+    "verseBanglaTranslation": "আমি শস্ত্রত্যাগ করিয়া প্রতিকারে বিরত হইলে যদি অস্ত্রধারী দুর্য্যোধনাদি আমাকে যুদ্ধে বধ করে তাহাও আমার পক্ষে অধিকতর মঙ্গলকর হইবে । ৪৫",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 36,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "১",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 37,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "২",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 38,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "৩",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 39,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "৪",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 40,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "৫",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 41,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "৬",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 42,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "৭",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 43,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 44,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 45,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 46,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 47,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 48,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 49,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 50,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 51,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 52,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 53,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 54,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 55,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 56,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 57,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 58,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 59,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 60,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 61,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 62,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 63,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 64,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 65,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 66,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 67,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 68,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 69,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 70,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 71,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 72,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 73,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 74,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 75,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 76,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 77,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 78,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 79,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 80,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 81,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 82,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 83,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 84,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 85,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 86,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 87,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 88,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 89,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 90,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 91,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 92,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 93,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 94,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 95,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 96,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 97,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 98,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 99,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 100,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 101,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 102,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 103,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 104,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 105,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 106,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 107,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 108,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 109,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 110,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 111,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 112,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 113,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 114,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 115,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 116,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 117,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 118,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 119,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 120,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 121,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 122,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 123,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 124,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 125,
+    "chapter": "২",
+    "chapterName": "সাংখ্যযোগ",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 126,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 127,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 128,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 129,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 130,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 131,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 132,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 133,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 134,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 135,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 136,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 137,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 138,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 139,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 140,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 141,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 142,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 143,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 144,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 145,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 146,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 147,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 148,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 149,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 150,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 151,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 152,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 153,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 154,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 155,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 156,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 157,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 158,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 159,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 160,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 161,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 162,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 163,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 164,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 165,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 166,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 167,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 168,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 169,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 170,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 171,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 172,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 173,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 174,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 175,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 176,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 177,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 178,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 179,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 180,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 181,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 182,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 183,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 184,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 185,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 186,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 187,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 188,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 189,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 190,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 191,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 192,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 193,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 194,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 195,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 196,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 197,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 198,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 199,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 200,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 201,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 202,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 203,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 204,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 205,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 206,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 207,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 208,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 209,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 210,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 211,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 212,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 213,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 214,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 215,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 216,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 217,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 218,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 219,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 220,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 221,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 222,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 223,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 224,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 225,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 226,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 227,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 228,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 229,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 230,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 231,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 232,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 233,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 234,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 235,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 236,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 237,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 238,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 239,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 240,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 241,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 242,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 243,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 244,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 245,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 246,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 247,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 248,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 249,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 250,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 251,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 252,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 253,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 254,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 255,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 256,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 257,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 258,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 259,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 260,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 261,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 262,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 263,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 264,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 265,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 266,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 267,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 268,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 269,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 270,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 271,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 272,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 273,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 274,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 275,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 276,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 277,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 278,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 279,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 280,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 281,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 282,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 283,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 284,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 285,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 286,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 287,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 288,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 289,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 290,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 291,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 292,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 293,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 294,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 295,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 296,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 297,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 298,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 299,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 300,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 301,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 302,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 303,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 304,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 305,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 306,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 307,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 308,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 309,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 310,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 311,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 312,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 313,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 314,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 315,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 316,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 317,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 318,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 319,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 320,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 321,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 322,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 323,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 324,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 325,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 326,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 327,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 328,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 329,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 330,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 331,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 332,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 333,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 334,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 335,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 336,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 337,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 338,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 339,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 340,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 341,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 342,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 343,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 344,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 345,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 346,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 347,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 348,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 349,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 350,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 351,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 352,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 353,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 354,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 355,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 356,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 357,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 358,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 359,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 360,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 361,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 362,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 363,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 364,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 365,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 366,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 367,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 368,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 369,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 370,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 371,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 372,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 373,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 374,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 375,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 376,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 377,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 378,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 379,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 380,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 381,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 382,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 383,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 384,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 385,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 386,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 387,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 388,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 389,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 390,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 391,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 392,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 393,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 394,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 395,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 396,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 397,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 398,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 399,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 400,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 401,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 402,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 403,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 404,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 405,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 406,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 407,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 408,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 409,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 410,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 411,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 412,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 413,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 414,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 415,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 416,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 417,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 418,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 419,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 420,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 421,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 422,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 423,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 424,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 425,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 426,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 427,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 428,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 429,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 430,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 431,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 432,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 433,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 434,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 435,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 436,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 437,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 438,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 439,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 440,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 441,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 442,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 443,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 444,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 445,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 446,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 447,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 448,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 449,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 450,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 451,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 452,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 453,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 454,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 455,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 456,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 457,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 458,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 459,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 460,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 461,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 462,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 463,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 464,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 465,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 466,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 467,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 468,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 469,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 470,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 471,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 472,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 473,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 474,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 475,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 476,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 477,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 478,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 479,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 480,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 481,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 482,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 483,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 484,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 485,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 486,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 487,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 488,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 489,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 490,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 491,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 492,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 493,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 494,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 495,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 496,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 497,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 498,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 499,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 500,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 501,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 502,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 503,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 504,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 505,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 506,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 507,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 508,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 509,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 510,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 511,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 512,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 513,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 514,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 515,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 516,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 517,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 518,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 519,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 520,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 521,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 522,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 523,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 524,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 525,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 526,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 527,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 528,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 529,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  },
+  {
+    "id": 530,
+    "chapter": "",
+    "chapterName": "",
+    "verseNo": "",
+    "verse": "",
+    "verseBanglaTranslation": "",
+    "verseBanglaDetails": ""
+  }
 ]
