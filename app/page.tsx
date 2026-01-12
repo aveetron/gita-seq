@@ -1,6 +1,7 @@
 import Title from "./components/title";
 import VerseCard from "./components/verse";
 import { DailyVerseDetailsInterface } from "./interface/common";
+import { Button } from "@/components/ui/button";
 
 export default function Home() {
   const dailyVerseDetails: DailyVerseDetailsInterface = {
@@ -17,6 +18,23 @@ export default function Home() {
         <Title title="শ্রীমদ্ভগবতগীতা প্রতিদিন" />
         <div className="w-full">
           <VerseCard dailyVerseDetails={dailyVerseDetails} />
+        </div>
+        <div className="w-full flex justify-center mt-6">
+          <Button
+            asChild
+            variant="outline"
+            className="font-medium hover:bg-foreground/5 dark:hover:bg-foreground/10"
+          >
+            <a
+              href="https://buymeacoffee.com/avee"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2"
+            >
+              <span>☕</span>
+              <span>Buy me a coffee</span>
+            </a>
+          </Button>
         </div>
       </div>
     </div>
